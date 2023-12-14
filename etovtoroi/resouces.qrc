@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>res/img.jpg</file>
+        <file>res/yager.png</file>
+        <file>res/app.png</file>
+        <file>res/Grass.png</file>
+        <file>res/TRX.png</file>
+        <file>res/Bruh.png</file>
+        <file>res/tric.png</file>
+        <file>res/vel.png</file>
+        <file>res/boom.png</file>
+        <file>res/astr.png</file>
+        <file>res/fon.png</file>
+    </qresource>
+</RCC>
